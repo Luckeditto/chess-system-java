@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Lucas
- *
- */
-module chessSystem {
-}
