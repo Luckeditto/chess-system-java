@@ -19,8 +19,6 @@ M
 src/chess/ChessException.java,2\1\21d85c75bbb5dc0c23b50ef6b7f244499ea59f9e
 L
 src/chess/ChessPosition.java,9\0\90a7f058c20369970d1f5d1c161ad421280924ef
-D
-src/module-info.java,c\d\cdc434daeee688944ced38ff1c9875422db88382
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 K
