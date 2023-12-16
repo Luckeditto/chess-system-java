@@ -1,6 +1,12 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ûıûŸÇ1
-F	java:S106"+Replace this use of System.out by a logger.(èÕªm8ûıûŸÇ1
-L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ûıûŸÇ1
-G	java:S106""+Replace this use of System.out by a logger.(¤ûŒµ8ûıûŸÇ1
-L	java:S106+"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8üıûŸÇ1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Şà­¡Ç1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8äà­¡Ç1
+F	java:S106"+Replace this use of System.out by a logger.(èÕªm8äà­¡Ç1
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8åà­¡Ç1
+G	java:S106""+Replace this use of System.out by a logger.(¤ûŒµ8åà­¡Ç1
+L	java:S106,"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8åà­¡Ç1
+N
+java:S1128",Remove this unused import 'boardgame.Board'.(–òŒÕøÿÿÿÿ8æà­¡Ç1
+L
+java:S1128"/Remove this unused import 'boardgame.Position'.(Š²½8æà­¡Ç1
