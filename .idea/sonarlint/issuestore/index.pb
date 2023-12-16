@@ -31,3 +31,5 @@ J
 src/chess/pieces/Rook.java,f\f\ff69bb3f200ec2b38c7858168986f747562072f9
 J
 src/chess/pieces/Pawn.java,d\2\d21ccb70ebdc2d41253dc9c5fdfe59b6a05be647
+L
+src/chess/pieces/Bishop.java,e\b\eb7ad43a61e450b7ce09ff6a1411f820b9f2ca7d
