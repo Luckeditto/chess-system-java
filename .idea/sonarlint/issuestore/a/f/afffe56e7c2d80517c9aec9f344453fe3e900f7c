@@ -1,7 +1,11 @@
 
 J
-java:S1125M"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8¶¸›¡Ç1
+java:S1125R"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8³¸£Ç1
 p
-java:S6204ˆ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8»¸›¡Ç1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8·¸£Ç1
 u
-java:S6204”"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8½¸›¡Ç1
+java:S6204œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8¸¸£Ç1
+p
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8¹¸£Ç1
+p
+java:S6204ª"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8¹¸£Ç1
