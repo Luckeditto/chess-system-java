@@ -1,11 +1,5 @@
 
-J
-java:S1125R"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8ã×»£Ç1
 p
-java:S6204’"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8ç×»£Ç1
-u
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8é×»£Ç1
-p
-java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8ê×»£Ç1
-p
-java:S6204¬"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8ë×»£Ç1
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8½Œæ¤Ç1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8§¹ø¤Ç1
