@@ -35,3 +35,5 @@ L
 src/chess/pieces/Bishop.java,e\b\eb7ad43a61e450b7ce09ff6a1411f820b9f2ca7d
 L
 src/chess/pieces/Knight.java,2\c\2c382ac8ce14bb76be20c87e0183878f7af23060
+K
+src/chess/pieces/Queen.java,2\f\2ff52db0eaa8aaea00a4e5e34c71c7a0a213f15e
