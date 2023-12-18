@@ -33,3 +33,5 @@ J
 src/chess/pieces/Pawn.java,d\2\d21ccb70ebdc2d41253dc9c5fdfe59b6a05be647
 L
 src/chess/pieces/Bishop.java,e\b\eb7ad43a61e450b7ce09ff6a1411f820b9f2ca7d
+L
+src/chess/pieces/Knight.java,2\c\2c382ac8ce14bb76be20c87e0183878f7af23060
