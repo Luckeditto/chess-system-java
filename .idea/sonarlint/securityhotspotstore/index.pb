@@ -37,3 +37,6 @@ L
 src/chess/pieces/Knight.java,2\c\2c382ac8ce14bb76be20c87e0183878f7af23060
 K
 src/chess/pieces/Queen.java,2\f\2ff52db0eaa8aaea00a4e5e34c71c7a0a213f15e
+:
+
+.classpath,3\5\354079a72b91a4280407c16a36f47d1986fd85a5

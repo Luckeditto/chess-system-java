@@ -3,5 +3,10 @@ L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÍÊâ¼È1
 F	java:S106"+Replace this use of System.out by a logger.(èÕªm8ÎÊâ¼È1
 L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÎÊâ¼È1
 G	java:S106""+Replace this use of System.out by a logger.(¤ûŒµ8ÎÊâ¼È1
-G	java:S106,"+Replace this use of System.out by a logger.(†Û–8ÏÊâ¼È1
-L	java:S1064"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÏÊâ¼È1
+G	java:S106-"+Replace this use of System.out by a logger.(†Û–8ÏÊâ¼È1
+L	java:S1060"+Replace this use of System.out by a logger.(‘’º÷ÿÿÿÿÿ8ÏÊâ¼È1
+L	java:S106:"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8˜„‹½È1
+N
+java:S1128",Remove this unused import 'boardgame.Board'.(–òŒÕøÿÿÿÿ8äæ‹½È1
+L
+java:S1128"/Remove this unused import 'boardgame.Position'.(Š²½8ææ‹½È1
