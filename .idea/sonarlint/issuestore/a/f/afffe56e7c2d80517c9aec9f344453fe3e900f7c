@@ -1,7 +1,11 @@
 
+Q
+java:S1066a"/Merge this if statement with the enclosing one.(®´Ùîüÿÿÿÿ8ÚåÚ¼È1
 R
-java:S1066"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8ş×ô»È1
+java:S1066½"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8ÚåÚ¼È1
 R
-java:S1066Ã"/Merge this if statement with the enclosing one.(¹Ùƒèùÿÿÿÿ8ÿ×ô»È1
+java:S1066ò"/Merge this if statement with the enclosing one.(¹Ùƒèùÿÿÿÿ8ÛåÚ¼È1
 p
-java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8ÇÙô»È1
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8’çÚ¼È1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8˜çÚ¼È1
